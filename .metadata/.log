@@ -1,0 +1,18 @@
+!SESSION 2020-11-13 13:57:26.036 -----------------------------------------------
+eclipse.buildId=Version 1.2.0
+java.version=1.8.0_202
+java.vendor=AdoptOpenJdk
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-11-13 13:57:42.211
+!MESSAGE Log4j initialized with config file D:\STM32\Project\UART1\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-11-13 13:57:43.713
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-11-13 13:57:44.669
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-11-13 13:58:05.848
+!MESSAGE No repository found at http://mirrors.ustc.edu.cn/eclipse/technology/babel/update-site/R0.17.0/2019-06/.

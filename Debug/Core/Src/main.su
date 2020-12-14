@@ -1,0 +1,12 @@
+main.c:88:1:__io_putchar	16	static
+main.c:100:5:main	8	static
+main.c:175:6:SystemClock_Config	152	static
+main.c:227:13:MX_NVIC_Init	8	static
+main.c:242:13:MX_TIM2_Init	48	static
+main.c:306:13:MX_TIM3_Init	48	static
+main.c:370:13:MX_TIM4_Init	48	static
+main.c:424:13:MX_USART1_UART_Init	8	static
+main.c:472:13:MX_USART2_UART_Init	8	static
+main.c:520:13:MX_GPIO_Init	48	static
+main.c:565:6:HAL_UART_RxCpltCallback	16	static
+main.c:909:6:Error_Handler	4	static

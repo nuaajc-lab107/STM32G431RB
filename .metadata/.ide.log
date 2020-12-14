@@ -1,0 +1,382 @@
+2020-11-13 13:57:42,213 [INFO] Activator:176 - 
+
+
+2020-11-13 13:57:42,214 [INFO] Activator:177 - !SESSION log4j initialized
+2020-11-13 13:57:56,010 [INFO] ApplicationProperties:181 - Using Application install path: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-11-13 13:57:56,025 [INFO] DbMcusXml:69 - Set database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/mcu/
+2020-11-13 13:57:56,025 [INFO] DbBoardsPdsc:54 - Set plugin database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/boardmanager/
+2020-11-13 13:57:56,025 [INFO] DbMcus:264 - Set plugin images path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/
+2020-11-13 13:57:56,025 [INFO] DbBoards:232 - Set plugin images path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/
+2020-11-13 13:57:56,025 [INFO] APIGFXSelector:72 - Set database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/mcu/
+2020-11-13 13:57:56,041 [INFO] DbMcusAds:72 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,041 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,041 [INFO] DbMcusJson:59 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,041 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,041 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,135 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-11-13 13:57:56,228 [INFO] RulesReader:52 - Compatibility file has been processed (205 Rules)
+2020-11-13 13:57:56,322 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-11-13 13:57:56,322 [INFO] DbMcusXml:69 - Set database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/mcu/
+2020-11-13 13:57:56,322 [INFO] DbBoardsPdsc:54 - Set plugin database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/boardmanager/
+2020-11-13 13:57:56,322 [INFO] DbMcus:264 - Set plugin images path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/
+2020-11-13 13:57:56,322 [INFO] DbBoards:232 - Set plugin images path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/
+2020-11-13 13:57:56,322 [INFO] APIGFXSelector:72 - Set database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/mcu/
+2020-11-13 13:57:56,322 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,322 [INFO] DbMcusAds:72 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,322 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,322 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,322 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,322 [INFO] DbMcusJson:59 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,322 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,322 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,322 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,322 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,322 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,322 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,322 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-11-13 13:57:56,400 [INFO] MainPanel:180 - HeapMemory: 338690048
+2020-11-13 13:57:56,463 [INFO] DbMcusXml:69 - Set database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/mcu/
+2020-11-13 13:57:56,463 [INFO] DbBoardsPdsc:54 - Set plugin database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/boardmanager/
+2020-11-13 13:57:56,463 [INFO] DbMcus:264 - Set plugin images path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/
+2020-11-13 13:57:56,463 [INFO] DbBoards:232 - Set plugin images path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/
+2020-11-13 13:57:56,463 [INFO] APIGFXSelector:72 - Set database path to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/mcu/
+2020-11-13 13:57:56,463 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,463 [INFO] DbMcusAds:72 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,463 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,463 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,463 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,463 [INFO] DbMcusJson:59 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,463 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,463 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,463 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,463 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-13 13:57:56,463 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,478 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\lenovo\.stmcufinder\plugins\mcufinder
+2020-11-13 13:57:56,478 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-11-13 13:57:56,494 [INFO] ApplicationProperties:181 - Using Application install path: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-11-13 13:57:56,494 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-11-13 13:57:56,494 [INFO] PluginManage:292 - Check plugin analytics
+2020-11-13 13:57:56,509 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-11-13 13:57:56,509 [INFO] PluginManage:292 - Check plugin clock
+2020-11-13 13:57:56,525 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-11-13 13:57:56,525 [INFO] PluginManage:292 - Check plugin ddr
+2020-11-13 13:57:56,541 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-11-13 13:57:56,541 [INFO] PluginManage:292 - Check plugin filemanager
+2020-11-13 13:57:56,634 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-11-13 13:57:56,634 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-11-13 13:57:56,650 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-11-13 13:57:56,650 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-11-13 13:57:56,650 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-11-13 13:57:56,650 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-11-13 13:57:56,666 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-11-13 13:57:56,666 [INFO] PluginManage:292 - Check plugin power
+2020-11-13 13:57:56,681 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-11-13 13:57:56,681 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-11-13 13:57:56,697 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-11-13 13:57:56,697 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-11-13 13:57:56,759 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (C:/Users/lenovo/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 31 ms. number of Sw pack : 14
+2020-11-13 13:57:56,775 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-11-13 13:57:56,775 [INFO] PluginManage:292 - Check plugin tools
+2020-11-13 13:57:56,775 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-11-13 13:57:56,775 [INFO] PluginManage:292 - Check plugin updater
+2020-11-13 13:57:56,791 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-11-13 13:57:56,791 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-11-13 13:57:56,962 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-11-13 13:57:57,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,056 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-11-13 13:57:57,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,056 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-11-13 13:57:57,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,056 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-11-13 13:57:57,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,056 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-11-13 13:57:57,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,056 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-11-13 13:57:57,056 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,056 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-11-13 13:57:57,072 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,072 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-11-13 13:57:57,072 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,072 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-11-13 13:57:57,103 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,103 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-11-13 13:57:57,119 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,119 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-11-13 13:57:57,119 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,119 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-11-13 13:57:57,119 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,119 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-11-13 13:57:57,119 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,119 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-11-13 13:57:57,119 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,134 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-11-13 13:57:57,134 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,134 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-11-13 13:57:57,134 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,134 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-11-13 13:57:57,134 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,134 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-11-13 13:57:57,134 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,134 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-11-13 13:57:57,134 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,134 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-11-13 13:57:57,150 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,150 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-11-13 13:57:57,150 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,150 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-11-13 13:57:57,150 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,150 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-11-13 13:57:57,150 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,150 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-11-13 13:57:57,166 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,166 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-11-13 13:57:57,166 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,166 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-11-13 13:57:57,166 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,181 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-11-13 13:57:57,181 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,181 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-11-13 13:57:57,181 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,181 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-11-13 13:57:57,181 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,181 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-11-13 13:57:57,181 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,181 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-11-13 13:57:57,181 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,181 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-11-13 13:57:57,197 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,197 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-11-13 13:57:57,197 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,197 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-11-13 13:57:57,197 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,197 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-11-13 13:57:57,197 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,197 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-11-13 13:57:57,197 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,197 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-11-13 13:57:57,197 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,197 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-11-13 13:57:57,197 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-11-13 13:57:57,197 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-11-13 13:57:57,689 [INFO] BoardConnectionPanel:226 - [DDR PANEL] osNameString: Windows
+2020-11-13 13:57:57,893 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-11-13 13:57:57,893 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-11-13 13:57:58,089 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-11-13 13:57:58,276 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-11-13 13:57:58,276 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-11-13 13:57:58,276 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-11-13 13:57:58,276 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-11-13 13:57:58,292 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2020-11-13 13:57:58,292 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin\STM32_Programmer_CLI.exe -l
+2020-11-13 13:57:58,941 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2020-11-13 13:57:58,941 [INFO] Updater:886 - Updater Version found : 5.5.0
+2020-11-13 13:57:58,956 [INFO] ApplicationProperties:181 - Using Application install path: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-11-13 13:57:59,159 [INFO] MainUpdater:2230 - connection check result : 10
+2020-11-13 13:57:59,159 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-11-13 13:57:59,159 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-11-13 13:57:59,191 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-11-13 13:57:59,368 [INFO] MainUpdater:2230 - connection check result : 10
+2020-11-13 13:57:59,368 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-11-13 13:57:59,509 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-11-13 13:57:59,540 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-11-13 13:57:59,540 [INFO] DbMcusXml:107 - Load MCU database from D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/mcu/families.xml
+2020-11-13 13:57:59,868 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (C:/Users/lenovo/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-11-13 13:57:59,899 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-11-13 13:58:00,493 [INFO] DbMcusJson:87 - JSON generation date=Fri Nov 06 00:05:07 CST 2020 (1604592307)
+2020-11-13 13:58:01,820 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-11-13 13:58:01,820 [INFO] ApiDb:158 - Load user favorites file C:\Users\lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-11-13 13:58:01,820 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-11-13 13:58:01,820 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-11-13 13:58:02,603 [INFO] DbMcusAds:130 - JSON generation date=Wed Oct 21 21:42:18 CST 2020 (1603287738)
+2020-11-13 13:58:03,425 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-11-13 13:58:03,425 [ERROR] ServerAccessManage:517 - Problem, file not found on Server : .
+2020-11-13 13:58:03,425 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-11-13 13:58:03,425 [WARN] McuDetailPanel:184 - Failed to get advertising image, set to default
+2020-11-13 13:58:04,620 [INFO] ServerAccessManage:348 - Download File mcusDocs.json
+2020-11-13 13:58:05,443 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-11-13 13:58:05,977 [INFO] ServerAccessManage:348 - Download File mcusFeaturesAndDescription.json
+2020-11-13 13:58:29,453 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-11-13 13:58:30,029 [INFO] ServerAccessManage:348 - Download File mcusAds.json
+2020-11-13 13:58:30,044 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-11-13 13:58:30,573 [INFO] ServerAccessManage:348 - Download File boardsDocs.json
+2020-11-13 13:58:36,281 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-11-13 13:58:36,809 [INFO] ServerAccessManage:348 - Download File boards.json
+2020-11-13 13:58:42,299 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-11-13 13:58:43,311 [INFO] ServerAccessManage:348 - Download File crdb.zip
+2020-11-13 13:58:45,497 [INFO] FileExtend:225 - Unzip File : crdb.zip
+2020-11-13 13:58:45,497 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-11-13 13:58:45,528 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-11-13 13:58:45,528 [INFO] DbMcusDocs:126 - JSON generation date=Fri Nov 06 00:05:07 CST 2020 (1604592307)
+2020-11-13 13:58:45,753 [INFO] DbMcusDocs:61 - Found 601 MCUs documents
+2020-11-13 13:58:45,753 [INFO] ApiDb:186 - Save user favorites file C:\Users\lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-11-13 13:58:45,753 [INFO] ApiDb:191 - User favorites MCUs=[]
+2020-11-13 13:58:45,753 [INFO] DbMcusXml:107 - Load MCU database from D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/mcu/families.xml
+2020-11-13 13:58:46,145 [INFO] DbMcusJson:87 - JSON generation date=Fri Nov 06 00:05:07 CST 2020 (1604592307)
+2020-11-13 13:58:46,794 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-11-13 13:58:46,794 [INFO] ApiDb:158 - Load user favorites file C:\Users\lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-11-13 13:58:46,794 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-11-13 13:58:46,794 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-11-13 13:58:46,857 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-11-13 13:58:47,032 [INFO] DbBoardsDocs:118 - JSON generation date=Fri Nov 06 00:05:07 CST 2020 (1604592307)
+2020-11-13 13:58:47,048 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-11-13 13:58:47,048 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-11-13 13:58:47,048 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-11-13 13:58:47,048 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-11-13 13:58:47,063 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-11-13 13:58:47,063 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-11-13 13:58:47,063 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-11-13 13:58:47,063 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-11-13 13:58:47,095 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-11-13 13:58:47,095 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-11-13 13:58:47,095 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-11-13 13:58:47,095 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-11-13 13:58:47,095 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-11-13 13:58:47,095 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-11-13 13:58:47,095 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-11-13 13:58:47,095 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-11-13 13:58:47,110 [INFO] DbBoardsJson:79 - JSON generation date=Thu Nov 05 22:55:26 CST 2020 (1604588126)
+2020-11-13 13:58:47,110 [INFO] DbBoards:120 - Found 147 boards (140 are supported by CubeMX)
+2020-11-13 13:58:47,126 [INFO] DbBoardsDocs:118 - JSON generation date=Fri Nov 06 00:05:07 CST 2020 (1604592307)
+2020-11-13 13:58:47,157 [INFO] DbBoardsDocs:57 - Found 190 boards documents
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-11-13 13:58:47,157 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-11-13 13:58:47,478 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-11-13 13:58:48,149 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2020-11-13 13:58:48,165 [ERROR] DbBoards:192 - Image file not found for board STM32H735G-DK: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/STM32H735G_DK_small.jpg
+2020-11-13 13:58:48,165 [INFO] ApiDb:158 - Load user favorites file C:\Users\lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-11-13 13:58:48,165 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-11-13 13:58:48,165 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-11-13 13:58:48,165 [INFO] DbBoardsDocs:57 - Found 380 boards documents
+2020-11-13 13:58:48,165 [INFO] ApiDb:186 - Save user favorites file C:\Users\lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-11-13 13:58:48,165 [INFO] ApiDb:191 - User favorites Boards=[]
+2020-11-13 13:58:48,165 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-11-13 13:58:48,165 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-11-13 13:58:48,181 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-11-13 13:58:48,181 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-11-13 13:58:48,181 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-11-13 13:58:48,181 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-11-13 13:58:48,181 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-11-13 13:58:48,181 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-11-13 13:58:48,181 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-11-13 13:58:48,181 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-11-13 13:58:48,196 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-11-13 13:58:48,196 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-11-13 13:58:48,196 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-11-13 13:58:48,196 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-11-13 13:58:48,196 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-11-13 13:58:48,196 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-11-13 13:58:48,196 [INFO] DbBoardsJson:79 - JSON generation date=Thu Nov 05 22:55:26 CST 2020 (1604588126)
+2020-11-13 13:58:48,196 [INFO] DbBoards:120 - Found 147 boards (140 are supported by CubeMX)
+2020-11-13 13:58:48,196 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-11-13 13:58:48,196 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-11-13 13:58:48,196 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-11-13 13:58:48,196 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-11-13 13:58:48,196 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-11-13 13:58:48,196 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-11-13 13:58:48,212 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-11-13 13:58:48,385 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-11-13 13:58:48,775 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2020-11-13 13:58:48,775 [ERROR] DbBoards:192 - Image file not found for board STM32H735G-DK: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/STM32H735G_DK_small.jpg
+2020-11-13 13:58:48,775 [INFO] ApiDb:158 - Load user favorites file C:\Users\lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-11-13 13:58:48,775 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-11-13 13:58:48,775 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-11-13 13:58:49,213 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-11-13 13:58:49,213 [ERROR] ServerAccessManage:517 - Problem, file not found on Server : .
+2020-11-13 13:58:49,213 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-11-13 13:58:49,213 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-11-13 13:58:50,747 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-11-13 13:58:50,747 [ERROR] ServerAccessManage:517 - Problem, file not found on Server : .
+2020-11-13 13:58:50,747 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-11-13 13:58:50,747 [WARN] BoardDetailPanel:182 - Failed to get advertising image, set to default
+2020-11-13 13:58:51,459 [INFO] ServerAccessManage:348 - Download File mcusDocs.json
+2020-11-13 13:58:53,768 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-11-13 13:58:54,299 [INFO] ServerAccessManage:348 - Download File mcusFeaturesAndDescription.json
+2020-11-13 13:59:30,006 [INFO] DbMcusDocs:126 - JSON generation date=Fri Nov 06 00:05:07 CST 2020 (1604592307)
+2020-11-13 13:59:30,099 [INFO] DbMcusDocs:61 - Found 601 MCUs documents
+2020-11-13 13:59:30,099 [INFO] ApiDb:186 - Save user favorites file C:\Users\lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-11-13 13:59:30,099 [INFO] ApiDb:191 - User favorites MCUs=[]
+2020-11-13 13:59:30,099 [INFO] DbMcusXml:107 - Load MCU database from D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/mcu/families.xml
+2020-11-13 13:59:30,263 [ERROR] ServerAccessManage:517 - User Cancel Download : mcusFeaturesAndDescription.json.
+2020-11-13 13:59:30,263 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-11-13 13:59:30,404 [INFO] DbMcusJson:87 - JSON generation date=Fri Nov 06 00:05:07 CST 2020 (1604592307)
+2020-11-13 13:59:30,887 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-11-13 13:59:30,887 [INFO] ApiDb:158 - Load user favorites file C:\Users\lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-11-13 13:59:30,887 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-11-13 13:59:30,887 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-11-13 13:59:30,934 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-11-13 13:59:31,131 [INFO] DbBoardsDocs:118 - JSON generation date=Fri Nov 06 00:05:07 CST 2020 (1604592307)
+2020-11-13 13:59:31,131 [INFO] DbBoardsDocs:57 - Found 190 boards documents
+2020-11-13 13:59:31,131 [INFO] ApiDb:186 - Save user favorites file C:\Users\lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-11-13 13:59:31,131 [INFO] ApiDb:191 - User favorites Boards=[]
+2020-11-13 13:59:31,131 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-11-13 13:59:31,131 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-11-13 13:59:31,131 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-11-13 13:59:31,147 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-11-13 13:59:31,147 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-11-13 13:59:31,147 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-11-13 13:59:31,147 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-11-13 13:59:31,163 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-11-13 13:59:31,163 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-11-13 13:59:31,163 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-11-13 13:59:31,163 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-11-13 13:59:31,163 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-11-13 13:59:31,163 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-11-13 13:59:31,163 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-11-13 13:59:31,163 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-11-13 13:59:31,163 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-11-13 13:59:31,178 [INFO] DbBoardsJson:79 - JSON generation date=Thu Nov 05 22:55:26 CST 2020 (1604588126)
+2020-11-13 13:59:31,178 [INFO] DbBoards:120 - Found 147 boards (140 are supported by CubeMX)
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-11-13 13:59:31,178 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-11-13 13:59:31,400 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-11-13 13:59:31,829 [ERROR] DbBoards:192 - Image file not found for board B-L4S5I-IOT01A: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/B-L4S5I-IOT01A_small.jpg
+2020-11-13 13:59:31,829 [ERROR] DbBoards:192 - Image file not found for board STM32H735G-DK: D:\STM32\stm32cubeide\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.5.0.201912201511\\db\/plugins/mcufinder/images/boards/STM32H735G_DK_small.jpg
+2020-11-13 13:59:31,829 [INFO] ApiDb:158 - Load user favorites file C:\Users\lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-11-13 13:59:31,829 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-11-13 13:59:31,829 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-11-13 13:59:31,829 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-11-13 13:59:32,314 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-11-13 13:59:32,314 [ERROR] ServerAccessManage:517 - Problem, file not found on Server : .
+2020-11-13 13:59:32,314 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-11-13 13:59:32,314 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-11-13 13:59:32,442 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\lenovo\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
